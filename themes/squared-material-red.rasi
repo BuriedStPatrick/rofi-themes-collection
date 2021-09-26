@@ -94,3 +94,9 @@ configuration {
 #mode-switcher {
     padding             : 0;
 }
+
+element-text, element-icon {
+    background-color:   inherit;
+    text-color:         inherit;
+}
+
