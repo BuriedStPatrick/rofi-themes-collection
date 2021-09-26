@@ -1,6 +1,6 @@
 /*******************************************************************************
- * ROFI SQUARED THEME USING THE MATERIAL DARKER PALETTE 
- * User                 : LR-Tech               
+ * ROFI SQUARED THEME USING THE MATERIAL DARKER PALETTE
+ * User                 : LR-Tech              
  * Theme Repo           : https://github.com/lr-tech/rofi-themes-collection
  *******************************************************************************/
 
@@ -36,7 +36,7 @@ configuration {
 }
 #inputbar {
     background-color    : @bg-light-color;
-    spacing             : 16; 
+    spacing             : 16;
     padding             : 8;
 }
 #prompt {
